@@ -1,1 +1,2 @@
-# recking-ball
+# Wrecking_ball
+Wrecking ball simulation
